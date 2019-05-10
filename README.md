@@ -1,1 +1,0 @@
-# docker-fake-smtp-server
